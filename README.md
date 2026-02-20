@@ -1,6 +1,7 @@
  # EMI Products Demo
 
  Tech stack: node.js, express.js, mongodb, react
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/e2c31fef-3eb4-42b1-a69b-3d46cf92f817" />
 
  Project structure
 
