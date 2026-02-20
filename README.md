@@ -1,4 +1,5 @@
  # EMI Products Demo
+ # Deployed URL(Vercel): https://emi-products-demo.vercel.app/
 
  TECH STACK: node.js, express.js, mongodb, react
  
